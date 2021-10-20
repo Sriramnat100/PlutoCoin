@@ -20,5 +20,6 @@ run the wallet with ./plutocoin-qt
 -Have basic node setup, but will invest in a full time node for full release.
 -working on compiling windows wallet/mining exe
 
+Network parms still need to be updated
 
 
