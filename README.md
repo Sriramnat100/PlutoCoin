@@ -2,6 +2,8 @@
 Plutcoin is a cryptocurrency built on top of the Bitcoin network, allowing for faster transactions
 Block maturity is set a 10, will probably change it to 50 make blockchain more secure.
 Has a block time of 2.5 minutes, with a block reward of 30, with a halving rate of 800k blocks.
+Comparing it with a block time of 12.5 minutes with Bitcoin, the coin presented is almost 5 times faster.
+
 
 To veiw the source code, use 7 zip on linux(or windows, but not reccomended), and compile the wallet for your self:
 
