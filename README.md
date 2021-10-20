@@ -15,6 +15,8 @@ then enter qmake
 check if compiled correctly with finishing the compiling with ls, and see if "plutocoin-qt" has been added
 run the wallet with ./plutocoin-qt
 
-Have basic node setup, but will invest in a full time node for full release
+-Have basic node setup, but will invest in a full time node for full release.
+-working on compiling windows wallet/mining exe
+
 
 
